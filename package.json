@@ -21,7 +21,7 @@
   "author": "AXErunners",
   "license": "MIT",
   "dependencies": {
-    "axe-util": "^2.0.0",
+    "@axerunners/axe-util": "^2.0.0",
     "webcoin-params-axe": "^1.0.0"
   },
   "devDependencies": {
